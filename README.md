@@ -9,7 +9,7 @@ I have a strong foundation in programming and problem-solving. I am excited to c
 * 🌍  I'm based in Atlanta, Georgia
 * 🖥️  Check out my portfolio [Here! (Still in Development)](http://https://arnava2004.github.io/)
 * ✉️  You can contact me at [arnava2004@gmail.com](mailto:arnava2004@gmail.com)
-* 🚀  I'm currently working on [an Ocular Disease Detector (Source Code)](http://https://github.com/arnava2004/Project_Cluster)
+* 🚀  I'm currently working on [an Ocular Disease Detector (Source Code)](https://github.com/arnava2004/Project_Cluster)
 * 🧠  I'm learning Image Classification and Deep Learning
 * 🤝  I'm open to collaborating on healthcare machine learning applications and full stack projects
 
