@@ -9,7 +9,7 @@ I have a strong foundation in programming and problem-solving. I am excited to c
 * 🌍  I'm based in Atlanta, Georgia
 * 🖥️  Check out my portfolio [Here! (Still in Development)](https://arnava2004.github.io/)
 * ✉️  You can contact me at [arnava2004@gmail.com](mailto:arnava2004@gmail.com)
-* 🚀  I'm currently working on [a License Plate Reader!](https://github.com/arnava2004/LicensePlateReader)
+* 🚀  I'm currently working on [Hindsight! a build cache for coding agents](https://github.com/tjeong117/fasthack)
 * 🧠  I'm learning Image Classification and Deep Learning
 * 🤝  I'm open to collaborating on healthcare machine learning applications and full stack projects
 
